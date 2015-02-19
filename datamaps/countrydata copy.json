@@ -1,0 +1,1364 @@
+[
+  {
+    "threeDigit":"AFG",
+    "country":"Afghanistan ",
+    "visaRequirements":"Not enough information",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"ALB",
+    "country":"Albania ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"DZA",
+    "country":"Algeria ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"ASM",
+    "country":"American Samoa ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"AND",
+    "country":"Andorra ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"AGO",
+    "country":"Angola ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"AIA",
+    "country":"Anguilla ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"ATG",
+    "country":"Antigua & Barbuda ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"ARG",
+    "country":"Argentina ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"ARM",
+    "country":"Armenia ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":"Up to 120 days"
+  },
+  {
+    "threeDigit":"ABW",
+    "country":"Aruba ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":"Visa free if U.S., U.K., Canada or Schengen Area resident permit holder or cruise ship passenger staying not more than 48 hours"
+  },
+  {
+    "threeDigit":"AUS",
+    "country":"Australia ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"AUT",
+    "country":"Austria ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"AZE",
+    "country":"Azerbaijan ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"BHS",
+    "country":"Bahamas, The ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":"Exception: Visa on Arrival Via Cruise"
+  },
+  {
+    "threeDigit":"BHR",
+    "country":"Bahrain ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"BGD",
+    "country":"Bangladesh ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"BRB",
+    "country":"Barbados ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"BLR",
+    "country":"Belarus ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"BEL",
+    "country":"Belgium ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"BLZ",
+    "country":"Belize ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"BEN",
+    "country":"Benin ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"BMU",
+    "country":"Bermuda ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"BTN",
+    "country":"Bhutan ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"BOL",
+    "country":"Bolivia ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"BIH",
+    "country":"Bosnia & Herzegovina ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"BWA",
+    "country":"Botswana ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"BRA",
+    "country":"Brazil ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"VGB",
+    "country":"British Virgin Is. ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":"Permanent residents of the United States, Canada or the United Kingdom do not require a visa."
+  },
+  {
+    "threeDigit":"BRN",
+    "country":"Brunei ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"BGR",
+    "country":"Bulgaria ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"BFA",
+    "country":"Burkina Faso ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"MMR",
+    "country":"Burma ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 14 days"
+  },
+  {
+    "threeDigit":"BDI",
+    "country":"Burundi ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":"Up to 30 days"
+  },
+  {
+    "threeDigit":"KHM",
+    "country":"Cambodia ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"CMR",
+    "country":"Cameroon ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"CAN",
+    "country":"Canada ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":"Green Card holders exempt"
+  },
+  {
+    "threeDigit":"CPV",
+    "country":"Cape Verde ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"CYM",
+    "country":"Cayman Islands ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":"Up to 30 days visa-free for permanent residents of and traveling directly from: Canada, USA or UK.�Visa free for cruise ship passengers leaving on same day as arrival"
+  },
+  {
+    "threeDigit":"CAF",
+    "country":"Central African Rep. ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"TCD",
+    "country":"Chad ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"CHL",
+    "country":"Chile ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"CHN",
+    "country":"China ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"COL",
+    "country":"Colombia ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 90 days. Extension Available."
+  },
+  {
+    "threeDigit":"COM",
+    "country":"Comoros ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"COD",
+    "country":"Congo, Dem. Rep. ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"COG",
+    "country":"Congo, Repub. of the ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"COK",
+    "country":"Cook Islands ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 31 days"
+  },
+  {
+    "threeDigit":"CRI",
+    "country":"Costa Rica ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 30 days. Extension Available"
+  },
+  {
+    "threeDigit":"CIV",
+    "country":"Cote d'Ivoire ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"HRV",
+    "country":"Croatia ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"CUB",
+    "country":"Cuba ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"CYP",
+    "country":"Cyprus ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"CZE",
+    "country":"Czech Republic ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"DNK",
+    "country":"Denmark ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"DJI",
+    "country":"Djibouti ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"DMA",
+    "country":"Dominica ",
+    "visaRequirements":"Not Available",
+    "visaNotes":"Up to 21 days"
+  },
+  {
+    "threeDigit":"DOM",
+    "country":"Dominican Republic ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"TMP",
+    "country":"East Timor ",
+    "visaRequirements":"Not enough information",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"ECU",
+    "country":"Ecuador ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 90 days"
+  },
+  {
+    "threeDigit":"EGY",
+    "country":"Egypt ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"SLV",
+    "country":"El Salvador ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"GNQ",
+    "country":"Equatorial Guinea ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"EDI",
+    "country":"Eritrea ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"EST",
+    "country":"Estonia ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"ETH",
+    "country":"Ethiopia ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"FRO",
+    "country":"Faroe Islands ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"FJI",
+    "country":"Fiji ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 4 months"
+  },
+  {
+    "threeDigit":"FIN",
+    "country":"Finland ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"FRA",
+    "country":"France ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"GUF",
+    "country":"French Guiana ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"PYF",
+    "country":"French Polynesia ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"GAB",
+    "country":"Gabon ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"GMB",
+    "country":"Gambia, The ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Must obtain entry clearance from Gambian Immigration prior to travel."
+  },
+  {
+    "threeDigit":"GZ",
+    "country":"Gaza Strip ",
+    "visaRequirements":"Not enough information",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"GEO",
+    "country":"Georgia ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"DEU",
+    "country":"Germany ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"GHA",
+    "country":"Ghana ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"GIB",
+    "country":"Gibraltar ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"GRC",
+    "country":"Greece ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"GRL",
+    "country":"Greenland ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"GRD",
+    "country":"Grenada ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"GLP",
+    "country":"Guadeloupe ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"GUM",
+    "country":"Guam ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"GTM",
+    "country":"Guatemala ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"",
+    "country":"Guernsey ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"GIN",
+    "country":"Guinea ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"GNB",
+    "country":"Guinea-Bissau ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":"Up to 90 days"
+  },
+  {
+    "threeDigit":"GUY",
+    "country":"Guyana ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"HTI",
+    "country":"Haiti ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 3 months"
+  },
+  {
+    "threeDigit":"HND",
+    "country":"Honduras ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"HKG",
+    "country":"Hong Kong ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 14 days"
+  },
+  {
+    "threeDigit":"HUN",
+    "country":"Hungary ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"ISL",
+    "country":"Iceland ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"IND",
+    "country":"India ",
+    "visaRequirements":"Other",
+    "visaNotes":"Electronic Travel Authorization. Up to 30 days"
+  },
+  {
+    "threeDigit":"IDN",
+    "country":"Indonesia ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 30 days"
+  },
+  {
+    "threeDigit":"IRN",
+    "country":"Iran ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"IRQ",
+    "country":"Iraq ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"IRL",
+    "country":"Ireland ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"",
+    "country":"Isle of Man ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"ISR",
+    "country":"Israel ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 3 months"
+  },
+  {
+    "threeDigit":"ITA",
+    "country":"Italy ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"JAM",
+    "country":"Jamaica ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"JPN",
+    "country":"Japan ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"",
+    "country":"Jersey ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"JOR",
+    "country":"Jordan ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"KAZ",
+    "country":"Kazakhstan ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"KEN",
+    "country":"Kenya ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":"Up to 3 months"
+  },
+  {
+    "threeDigit":"KIR",
+    "country":"Kiribati ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"PRK",
+    "country":"Korea, North ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"KOR",
+    "country":"Korea, South ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"KWT",
+    "country":"Kuwait ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"KGZ",
+    "country":"Kyrgyzstan ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":"Up to 1 month"
+  },
+  {
+    "threeDigit":"LAO",
+    "country":"Laos ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 30 days"
+  },
+  {
+    "threeDigit":"LVA",
+    "country":"Latvia ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"LBN",
+    "country":"Lebanon ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"LSO",
+    "country":"Lesotho ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"LBR",
+    "country":"Liberia ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"LBY",
+    "country":"Libya ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"LIE",
+    "country":"Liechtenstein ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"LTU",
+    "country":"Lithuania ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"LUX",
+    "country":"Luxembourg ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"MAC",
+    "country":"Macau ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"MKD",
+    "country":"Macedonia ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"MDG",
+    "country":"Madagascar ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":"Up to 90 days"
+  },
+  {
+    "threeDigit":"MWI",
+    "country":"Malawi ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"MYS",
+    "country":"Malaysia ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 30 days"
+  },
+  {
+    "threeDigit":"MDV",
+    "country":"Maldives ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":"Up to 30 days"
+  },
+  {
+    "threeDigit":"MLI",
+    "country":"Mali ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"MLT",
+    "country":"Malta ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"MHL",
+    "country":"Marshall Islands ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":"Up to 90 days"
+  },
+  {
+    "threeDigit":"MTQ",
+    "country":"Martinique ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"MRT",
+    "country":"Mauritania ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"MUS",
+    "country":"Mauritius ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"MYT",
+    "country":"Mayotte ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"MEX",
+    "country":"Mexico ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"FSM",
+    "country":"Micronesia, Fed. St. ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 30 days"
+  },
+  {
+    "threeDigit":"MDA",
+    "country":"Moldova ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"MCO",
+    "country":"Monaco ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"MNG",
+    "country":"Mongolia ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 21 days"
+  },
+  {
+    "threeDigit":"MSR",
+    "country":"Montserrat ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"MAR",
+    "country":"Morocco ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"MOZ",
+    "country":"Mozambique ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"NAM",
+    "country":"Namibia ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"NRU",
+    "country":"Nauru ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"NPL",
+    "country":"Nepal ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":"Up to 90 days"
+  },
+  {
+    "threeDigit":"NLD",
+    "country":"Netherlands ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"ANT",
+    "country":"Netherlands Antilles ",
+    "visaRequirements":"Not enough information",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"NCL",
+    "country":"New Caledonia ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"NZL",
+    "country":"New Zealand ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"NIC",
+    "country":"Nicaragua ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":"Up to 90 days"
+  },
+  {
+    "threeDigit":"NER",
+    "country":"Niger ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"NGA",
+    "country":"Nigeria ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"MNP",
+    "country":"N. Mariana Islands ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"NOR",
+    "country":"Norway ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"OMN",
+    "country":"Oman ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"PAK",
+    "country":"Pakistan ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"PLW",
+    "country":"Palau ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":"Up to 30 days"
+  },
+  {
+    "threeDigit":"PAN",
+    "country":"Panama ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"PNG",
+    "country":"Papua New Guinea ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":"Up to 60 days"
+  },
+  {
+    "threeDigit":"PRY",
+    "country":"Paraguay ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"PER",
+    "country":"Peru ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 183 days"
+  },
+  {
+    "threeDigit":"PHL",
+    "country":"Philippines ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"POL",
+    "country":"Poland ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"PRT",
+    "country":"Portugal ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"PRI",
+    "country":"Puerto Rico ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"QAT",
+    "country":"Qatar ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"REU",
+    "country":"Reunion ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"ROM",
+    "country":"Romania ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"RUS",
+    "country":"Russia ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"RWA",
+    "country":"Rwanda ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 90 days"
+  },
+  {
+    "threeDigit":"SHN",
+    "country":"Saint Helena ",
+    "visaRequirements":"Other",
+    "visaNotes":"Entry Permit must be obtained minimum 28 days in advance (3 months for 20/30�pounds sterling, single/double entry)."
+  },
+  {
+    "threeDigit":"KNA",
+    "country":"Saint Kitts & Nevis ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"LCA",
+    "country":"Saint Lucia ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"",
+    "country":"St Pierre & Miquelon ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":"Permanent Residents of Canada are exempted from passport and visa requirements for stays of maximum duration of 3 months within a period of 6 months"
+  },
+  {
+    "threeDigit":"VCT",
+    "country":"Saint Vincent and the Grenadines ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 1 month"
+  },
+  {
+    "threeDigit":"WSM",
+    "country":"Samoa ",
+    "visaRequirements":"Other",
+    "visaNotes":"Permit on Arrival. Up to 60 days"
+  },
+  {
+    "threeDigit":"SMR",
+    "country":"San Marino ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"STP",
+    "country":"Sao Tome & Principe ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"SAU",
+    "country":"Saudi Arabia ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"SEN",
+    "country":"Senegal ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"SRB",
+    "country":"Serbia ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":"Visa free for a maximum stay of 90 days for valid visa holders or residents of the�European Union�member states and theUnited States."
+  },
+  {
+    "threeDigit":"SYC",
+    "country":"Seychelles ",
+    "visaRequirements":"Other",
+    "visaNotes":"Permit on Arrival. Up to 1 month"
+  },
+  {
+    "threeDigit":"SLE",
+    "country":"Sierra Leone ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"SGP",
+    "country":"Singapore ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 30 days"
+  },
+  {
+    "threeDigit":"SVK",
+    "country":"Slovakia ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"SVN",
+    "country":"Slovenia ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"SLB",
+    "country":"Solomon Islands ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"SOM",
+    "country":"Somalia ",
+    "visaRequirements":"Visa on Arrival*",
+    "visaNotes":"Up to 30 days with letter of invitation submitted to immigration  2 days before arrival"
+  },
+  {
+    "threeDigit":"ZAF",
+    "country":"South Africa ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"ESP",
+    "country":"Spain ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"LKA",
+    "country":"Sri Lanka ",
+    "visaRequirements":"Other",
+    "visaNotes":"Electronic Travel Authorization. Up to 30 days"
+  },
+  {
+    "threeDigit":"SDN",
+    "country":"Sudan ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"SUR",
+    "country":"Suriname ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 90 days"
+  },
+  {
+    "threeDigit":"SWZ",
+    "country":"Swaziland ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"SWE",
+    "country":"Sweden ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"CHE",
+    "country":"Switzerland ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"SYR",
+    "country":"Syria ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"TWN",
+    "country":"Taiwan ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"TJK",
+    "country":"Tajikistan ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":"Up to 45 days"
+  },
+  {
+    "threeDigit":"TZA",
+    "country":"Tanzania ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"THA",
+    "country":"Thailand ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 30 days"
+  },
+  {
+    "threeDigit":"TGO",
+    "country":"Togo ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":"7 days"
+  },
+  {
+    "threeDigit":"TON",
+    "country":"Tonga ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"TTO",
+    "country":"Trinidad & Tobago ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"TUN",
+    "country":"Tunisia ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"TUR",
+    "country":"Turkey ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"TKM",
+    "country":"Turkmenistan ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"TCA",
+    "country":"Turks & Caicos Is ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 30 days"
+  },
+  {
+    "threeDigit":"TUV",
+    "country":"Tuvalu ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":"Up to 1 month"
+  },
+  {
+    "threeDigit":"UGA",
+    "country":"Uganda ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"UKR",
+    "country":"Ukraine ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"ARE",
+    "country":"United Arab Emirates ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"GBR",
+    "country":"United Kingdom ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"USA",
+    "country":"United States ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"URY",
+    "country":"Uruguay ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"UZB",
+    "country":"Uzbekistan ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"VUT",
+    "country":"Vanuatu ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"VEN",
+    "country":"Venezuela ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"VNM",
+    "country":"Vietnam ",
+    "visaRequirements":"No Visa Required",
+    "visaNotes":"Up to 21 days"
+  },
+  {
+    "threeDigit":"VIR",
+    "country":"Virgin Islands ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"WLF",
+    "country":"Wallis and Futuna ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"WE",
+    "country":"West Bank ",
+    "visaRequirements":"Not enough information",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"ESH",
+    "country":"Western Sahara ",
+    "visaRequirements":"Not enough information",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"YEM",
+    "country":"Yemen ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  },
+  {
+    "threeDigit":"ZMB",
+    "country":"Zambia ",
+    "visaRequirements":"Visa on Arrival",
+    "visaNotes":"Up to 90 days"
+  },
+  {
+    "threeDigit":"ZWE",
+    "country":"Zimbabwe ",
+    "visaRequirements":"Visa Required",
+    "visaNotes":""
+  }
+]
